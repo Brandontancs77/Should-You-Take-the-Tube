@@ -9,6 +9,7 @@
   "author": "Brandon",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.2",
     "jquery": "^3.6.0",
     "nedb": "^1.8.0",
